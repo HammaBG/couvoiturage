@@ -1,6 +1,6 @@
-# ETAC
+# Couvoiturage
 
-> ETAC api
+> Rides
 
 ## About
 
@@ -14,7 +14,7 @@ Getting up and running is as easy as 1, 2, 3.
 2.  Install your dependencies
 
     ```
-    cd path/to/etac; yarn
+    cd path/to/couvoiturage; yarn
     ```
 
 3.  Start your app
